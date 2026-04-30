@@ -8,13 +8,13 @@
   "server": {
     "ip": "SKserverCHG.aternos.me",
     "port": 45460,
-    "version": "",
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 10000,
     "z": 0
   },
   "utils": {
@@ -85,5 +85,4 @@
     "respond": true
   }
 }
-bot.on('error', err => console.log('ERROR:', err))
-bot.on('end', () => console.log('Bot disconnected'))
+
