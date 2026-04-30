@@ -85,3 +85,5 @@
     "respond": true
   }
 }
+bot.on('error', err => console.log('ERROR:', err))
+bot.on('end', () => console.log('Bot disconnected'))
