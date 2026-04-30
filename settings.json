@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SKserverCHG.aternos.me
-",
+    "ip": "SKserverCHG.aternos.me",
     "port": 45460,
     "version": "",
     "try-creative": false
