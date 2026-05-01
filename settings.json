@@ -8,7 +8,7 @@
   "server": {
     "ip": "SKserverCHG.aternos.me:45460",
     "port": 45460,
-    "version": 26.1,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
